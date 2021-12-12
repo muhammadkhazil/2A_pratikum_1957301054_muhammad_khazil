@@ -52,10 +52,10 @@ $query = mysqli_fetch_array($select);
                 <table class="table table-striped ">
                     <thead>
                         <tr>
-                            <th scope="col">No</th>
-                            <th scope="col">Nama barang</th>
-                            <th scope="col">Keterangan</th>
-                            <th scope="col">Gambar</th>
+                            <th scope="col">id_peminjaman</th>
+                            <th scope="col">barang</th>
+                            <th scope="col">user</th>
+                            <th scope="col">status</th>
                             <th scope="col">Aksi</th>
 
                         </tr>
@@ -195,4 +195,4 @@ $query = mysqli_fetch_array($select);
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 </body>
 
-</html>
+</html>pinj

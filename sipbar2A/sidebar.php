@@ -98,7 +98,7 @@
                 <svg class="bi me-2" width="16" height="16">
                     <use xlink:href="#grid" />
                 </svg>
-                Barang
+               Data Barang
             </a>
         </li>
         <?php } if ($row['level'] == 'admin'){?>
@@ -107,9 +107,10 @@
                 <svg class="bi me-2" width="16" height="16">
                     <use xlink:href="#people-circle" />
                 </svg>
-                Record 
+                Data Record 
             </a>
         </li>
+		
         <?php } ?>
     </ul>
     <hr>

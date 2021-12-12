@@ -47,7 +47,7 @@
 
             <tr>
                 <td>
-                    <label for="">Tempat_Lahir</label>
+                    <label for="">Tempat Lahir</label>
                 </td>
                 <td>
                     <textarea type="text" name="tempat_lahir"></textarea>
@@ -55,7 +55,7 @@
             </tr>
             <tr>
                 <td>
-                    <label for="">Tanggal_Lahir</label>
+                    <label for="">Tanggal Lahir</label>
                 </td>
                 <td>
                     <input type="date" name="tanggal_lahir">
